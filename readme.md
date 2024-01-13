@@ -1,6 +1,6 @@
 # 基于SSM的电影院管理系统6
 
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -10,8 +10,7 @@
 
 用户：登录注册、评论、购票、订单管理等
 
-![项目架构](https://s2.loli.net/2023/10/17/hnSufbrCGvUgQOP.png)
-
+![项目架构](https://www.codeshop.fun/Typora-Images/202311112153269.png)
 
 ## 2、项目技术
 
@@ -33,43 +32,40 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/17/fU9cGHxulzsSyjv.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311112154590.jpg)
 
 ### 4.2 管理员模块
 
-![类型管理](https://s2.loli.net/2023/10/17/mzlp8NXRHiE2gQ4.jpg)
+![管理员—轮播图管理](https://www.codeshop.fun/Typora-Images/202311112154511.jpg)
 
-![管理员—电影管理](https://s2.loli.net/2023/10/17/pfV6Bn5FdErWy4N.jpg)
+![管理员—电影管理](https://www.codeshop.fun/Typora-Images/202311112154707.jpg)
 
-![管理员—轮播图管理](https://s2.loli.net/2023/10/17/4WYC3ceODiQBZGJ.jpg)
+![管理员—电影咨询管理](https://www.codeshop.fun/Typora-Images/202311112155167.jpg)
 
-![管理员—电影资讯管理](https://s2.loli.net/2023/10/17/2O5mN8vPIFdzQbG.jpg)
+![管理员—订单管理](https://www.codeshop.fun/Typora-Images/202311112155143.jpg)
 
-![管理员—订单管理](https://s2.loli.net/2023/10/17/ETRAOuNX9tK7chs.jpg)
+![管理员—类型管理](https://www.codeshop.fun/Typora-Images/202311112155156.jpg)
 
 ### 4.3 用户模块
 
-![首页](https://s2.loli.net/2023/10/17/SZeDdEPfJItY7lw.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311112154359.jpg)
 
-![前端-分类查看电影](https://s2.loli.net/2023/10/17/rgpvjesy74ixNBt.jpg)
+![前端-我的订单](https://www.codeshop.fun/Typora-Images/202311112154060.jpg)
 
-![前端-电影详情](https://s2.loli.net/2023/10/17/cPbIi8UXTdJfGgO.jpg)
+![前端-电影详情](https://www.codeshop.fun/Typora-Images/202311112154071.jpg)
 
-![前端-我的订单](https://s2.loli.net/2023/10/17/JhoaUR5i7vpSEMA.jpg)
+![前端-电影资讯](https://www.codeshop.fun/Typora-Images/202311112154089.jpg)
 
-![前端-个人中心](https://s2.loli.net/2023/10/17/Fm4p8HeSXPDg2Rx.jpg)
+![前端-分类查看电影](https://www.codeshop.fun/Typora-Images/202311112154776.jpg)
+
+![前端-个人中心](https://www.codeshop.fun/Typora-Images/202311112154428.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/17/hwsd7tVDb6uo9IS.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：电影
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311112154662.jpg)
 
 
+## 获取方式
+下-方-点-击-关-注，回-复：**电影**，查-看-导-入-教-程-视-频-和-sql-脚-本-等
 
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
